@@ -1,0 +1,6 @@
+999|Amir Hamza|19|Heart Broken|1
+11|Imran|28|Heart hole|12
+33|David|89|Near Death|2
+34|Umer|34|Critical|1233
+1|Sabeena|24|Private|3689
+990|ali|19|critical|1
